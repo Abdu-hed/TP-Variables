@@ -10,18 +10,35 @@ import java.util.Scanner;
  */
 public class TPAlgo {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int x = 0;
-        int y = 0;
+     
+    //ex1
+    //System.out.println("Affiche un message dans la console");
+    //System.out.println("sur plusieurs lignes ");
+    
+    
+    //exo 4
+    //public static void main(String[] args) {
+        //Scanner sc = new Scanner(System.in);
+        //int x = 0;
+        //int y = 0;
+        //int z = 0;
         
-        System.out.print("saisir x : ");
-        x = sc.nextInt();
-        System.out.print("saisir y : ");
-        y = sc.nextInt();
+        //System.out.print("saisir x : ");
+        //x = sc.nextInt();
+        //System.out.print("saisir y : ");
+        //y = sc.nextInt();
         
-        System.out.println("Avant permutation :" + "x=" + x + " y="+y);
-        System.out.println("Apres permutation :" + "x=" + y + " y="+x);
-    }
+        //System.out.println("Avant permutation :" + "x=" + x + " y="+y);
+        
+        //z=x;
+        //x=y;
+        //y=z;
+        
+       
+       //System.out.println("Apres permutation :" + "x=" + x + " y="+y);
+      
+    
+}
 
     
 }
