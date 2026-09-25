@@ -37,6 +37,21 @@ public class TPAlgo {
        
        //System.out.println("Apres permutation :" + "x=" + x + " y="+y);
       
+       
+       //exo 5
+       
+       //Scanner sc = new Scanner(System.in);
+       
+      // int a = 0;
+      // int b = 0;
+        
+      // System.out.print("saisir a : ");
+      //a = sc.nextInt();
+      //System.out.print("saisir b : ");
+      // b = sc.nextInt();
+       
+      // System.out.println("(a+b)*2= :" + (a+b)*2 );
+       
     
 }
 
