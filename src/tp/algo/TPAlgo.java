@@ -50,7 +50,7 @@ public class TPAlgo {
       //System.out.print("saisir b : ");
       // b = sc.nextInt();
        
-      // System.out.println("(a+b)*2= :" + (a+b)*2 );
+      // System.out.println("(a+b)*2= " + (a+b)*2 );
        
     
 }
